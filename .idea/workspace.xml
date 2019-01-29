@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de9ef61-ea8f-4eb8-8a5a-9b94f8e5a42e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/disableOptionsA2063.html" beforeDir="false" afterPath="$PROJECT_DIR$/disableOptionsA2063.html" afterDir="false" />
-    </list>
+    <list default="true" id="8de9ef61-ea8f-4eb8-8a5a-9b94f8e5a42e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/disableOptionsA2063.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="1896" column="21" selection-start-line="1896" selection-start-column="17" selection-end-line="1896" selection-end-column="21" />
+            <state relative-caret-position="256">
+              <caret line="1094" column="57" selection-start-line="1094" selection-start-column="41" selection-end-line="1094" selection-end-column="57" />
               <folding>
                 <element signature="n#script#4;n#!!top" />
                 <element signature="n#style#0;n#!!top" />
@@ -53,6 +49,7 @@
       <find>if</find>
       <find>else if</find>
       <find>Goal</find>
+      <find>No Indicator</find>
     </findStrings>
     <replaceStrings>
       <replace>/ 0.00000001 +</replace>
@@ -60,6 +57,7 @@
       <replace>else if</replace>
       <replace>if</replace>
       <replace>Objectif</replace>
+      <replace>Pas d'indicateur</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -155,18 +153,17 @@
       <workItem from="1548242069536" duration="12204000" />
       <workItem from="1548310259511" duration="43924000" />
       <workItem from="1548659031611" duration="15923000" />
-      <workItem from="1548761157722" duration="776000" />
+      <workItem from="1548761157722" duration="1378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160547000" />
+    <option name="totallyTimeSpent" value="161149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14727855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14727855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -179,7 +176,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23650108" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23650108" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1598,8 +1595,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/disableOptionsA2063.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="1896" column="21" selection-start-line="1896" selection-start-column="17" selection-end-line="1896" selection-end-column="21" />
+        <state relative-caret-position="256">
+          <caret line="1094" column="57" selection-start-line="1094" selection-start-column="41" selection-end-line="1094" selection-end-column="57" />
           <folding>
             <element signature="n#script#4;n#!!top" />
             <element signature="n#style#0;n#!!top" />
