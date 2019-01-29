@@ -52,12 +52,14 @@
       <find>pBeH3AFPieZ-HllvX50cXC0-val</find>
       <find>if</find>
       <find>else if</find>
+      <find>Goal</find>
     </findStrings>
     <replaceStrings>
       <replace>/ 0.00000001 +</replace>
       <replace>/ (0.00000001 +</replace>
       <replace>else if</replace>
       <replace>if</replace>
+      <replace>Objectif</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
